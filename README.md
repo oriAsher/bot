@@ -1,0 +1,2 @@
+# bot
+my stupid bot
